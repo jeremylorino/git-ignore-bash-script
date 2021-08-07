@@ -1,0 +1,1 @@
+# git-ignore-bash-script
