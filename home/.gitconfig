@@ -1,0 +1,11 @@
+[core]
+	editor = \"C:\\Users\\jerem\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+	autocrlf = false
+	ignorecase = false
+	symlinks = true
+[user]
+	email = jeremylorino@gmail.com
+	name = Jeremy Lorino
+[alias]
+	co = checkout
+	ignore = !curl -o .gitignore https://www.toptal.com/developers/gitignore/api/$1 && :
